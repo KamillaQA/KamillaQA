@@ -7,7 +7,7 @@
 - ⚡ Curiosidade: Sou formada em Ciência dos Materiais.
 - 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/kamillacarvalho).
 
-<img src="https://github.com/seu-usuario-aqui/repositorio-imagens/blob/main/octocat.png" alt="Octocat" width="150"/>
+<img src="https://github.com/KamillaQA/repositorio-imagens/blob/main/octocat.png" alt="Octocat" width="150"/>
 
 # Ferramentas de Tecnologias!
 <br><br>
