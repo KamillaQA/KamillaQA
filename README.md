@@ -2,8 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando com Qualidade de Sistemas!
-- 🌱 Atualmente estou aprendendo Processos e Automação de testes.
-- 👯 Estou procurando colaborar na qualidade do sistema Websupply.
+- 🌱 Estou aprendendo Processos e Automação de testes.
+- 👯 procurando colaborar na qualidade do sistema Websupply.
 - ⚡ Curiosidade: Sou formada em Ciência dos Materiais.
 - 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/kamillacarvalho).
 
